@@ -1,0 +1,1 @@
+import requestsURL = 'https://www.avito.ru/severodvinsk/telefony?cd=1&q=iphone+12'response = requests.get(URL)print(response.status_code)
